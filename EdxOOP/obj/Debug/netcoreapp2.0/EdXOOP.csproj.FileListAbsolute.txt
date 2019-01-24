@@ -1,0 +1,10 @@
+c:\Users\sjose\source\repos\Training\EdXOOP\bin\Debug\netcoreapp2.0\EdXOOP.deps.json
+c:\Users\sjose\source\repos\Training\EdXOOP\bin\Debug\netcoreapp2.0\EdXOOP.runtimeconfig.json
+c:\Users\sjose\source\repos\Training\EdXOOP\bin\Debug\netcoreapp2.0\EdXOOP.runtimeconfig.dev.json
+c:\Users\sjose\source\repos\Training\EdXOOP\bin\Debug\netcoreapp2.0\EdXOOP.dll
+c:\Users\sjose\source\repos\Training\EdXOOP\bin\Debug\netcoreapp2.0\EdXOOP.pdb
+c:\Users\sjose\source\repos\Training\EdXOOP\obj\Debug\netcoreapp2.0\EdXOOP.csproj.CoreCompileInputs.cache
+c:\Users\sjose\source\repos\Training\EdXOOP\obj\Debug\netcoreapp2.0\EdXOOP.AssemblyInfoInputs.cache
+c:\Users\sjose\source\repos\Training\EdXOOP\obj\Debug\netcoreapp2.0\EdXOOP.AssemblyInfo.cs
+c:\Users\sjose\source\repos\Training\EdXOOP\obj\Debug\netcoreapp2.0\EdXOOP.dll
+c:\Users\sjose\source\repos\Training\EdXOOP\obj\Debug\netcoreapp2.0\EdXOOP.pdb

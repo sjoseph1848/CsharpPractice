@@ -1,0 +1,9 @@
+c:\users\sjose\source\repos\Training\Training\bin\Debug\netcoreapp2.0\Training.deps.json
+c:\users\sjose\source\repos\Training\Training\bin\Debug\netcoreapp2.0\Training.dll
+c:\users\sjose\source\repos\Training\Training\bin\Debug\netcoreapp2.0\Training.pdb
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.csprojAssemblyReference.cache
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.csproj.CoreCompileInputs.cache
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.AssemblyInfoInputs.cache
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.AssemblyInfo.cs
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.dll
+c:\users\sjose\source\repos\Training\Training\obj\Debug\netcoreapp2.0\Training.pdb
