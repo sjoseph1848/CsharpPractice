@@ -20,7 +20,7 @@ namespace EdXOOP
         {
             foreach (Student s in studs)
             {
-                Console.WriteLine(s.FirstName);
+                Console.WriteLine(s.FirstName + " " + s.LastName);
             }
         }
 

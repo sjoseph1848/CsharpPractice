@@ -19,6 +19,10 @@ namespace EdXOOP
             studentList.Add(student2);
             studentList.Add(student3);
 
+            course1.StudentsInCourse(studentList);
+
+            
+
         }
     }
 }
