@@ -6,26 +6,22 @@ namespace EdXOOP
 {
     public class Teacher
     {
-       
-        private string _name;
+        //Define the properties of a teacher
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         
 
-        public Teacher(string Name)
+        public Teacher(string firstName,string lastName)
         {
-            if(Name == "John Doe")
-            {
-                _name = Name;
-               
-            }
+            this.FirstName = firstName;
+            this.LastName = lastName;
         }
 
-        public string Available()
+       
 
-        public string SubjectTaught(Course course)
-        {
-            course = "Introduction to C#";
-            return course;
-        }
+
+
+
 
     }
 }

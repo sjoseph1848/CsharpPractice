@@ -6,12 +6,20 @@ namespace EdXOOP
 {
     public class Student
     {
-        public static int count = 0;
+        private static int count = 0;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
-        public Student()
+        public Student(string firstName,string lastName)
         {
-
+            this.FirstName = firstName;
+            this.LastName = lastName;
             count++;
+        }
+        //student.CountStudents();
+        public static int CountStudents()
+        {
+            return count;
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace EdXOOP
 {
@@ -6,14 +7,18 @@ namespace EdXOOP
     {
         static void Main(string[] args)
         {
-            var sam = new Student();
-            var joe = new Student();
-            var jim = new Student();
+            var student1 = new Student("John", "Apple");
+            var student2 = new Student("Bob", "Stone");
+            var student3 = new Student("Meg", "Jones");
+            var teacher1 = new Teacher("John", "Ronaldo");
+            var course1 = new Course(101, "Introduction to C#");
 
-            var Teacher = new Teacher("John Doe");
-            
+            var studentList = new List<Student>();
 
-            Console.WriteLine(EdXOOP.Student.count);
+            studentList.Add(student1);
+            studentList.Add(student2);
+            studentList.Add(student3);
+
         }
     }
 }

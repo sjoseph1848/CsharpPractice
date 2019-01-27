@@ -6,18 +6,35 @@ namespace EdXOOP
 {
     public class Course
     {
-        private string courseOffered;
-        public string CourseOffered { get; set; }
+        public int CourseNumber { get; set; }
+        public string CourseName { get; set; }
+        public int StudentCount { get; set; }
 
-        public Course(string course)
+        public Course(int courseNumber,string courseName)
         {
-            this.CourseOffered = courseOffered;
-            
+            this.CourseNumber = courseNumber;
+            this.CourseName = courseName;
+    
+        }       
+        public void StudentsInCourse(List<Student> studs)
+        {
+            foreach (Student s in studs)
+            {
+                Console.WriteLine(s.FirstName);
+            }
         }
 
-        public string CourseToTake(string CourseOffered,Teacher teach)
+        public static List<Object> ListOfStudents(List<Student> studs)
         {
-            if(teach.)
+            var studList = new List<object>();
+            foreach (Student s in studs)
+            {
+                var studName = s.FirstName + " " + s.LastName; 
+                studList.Add(studName);
+            }
+            return studList;
         }
+
+
     }
 }
