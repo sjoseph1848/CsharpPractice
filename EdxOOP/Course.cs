@@ -24,7 +24,7 @@ namespace EdXOOP
             }
         }
 
-        public static List<Object> ListOfStudents(List<Student> studs)
+        public List<Object> ListOfStudents(List<Student> studs)
         {
             var studList = new List<object>();
             foreach (Student s in studs)

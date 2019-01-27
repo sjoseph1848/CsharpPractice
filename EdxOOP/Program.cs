@@ -21,6 +21,7 @@ namespace EdXOOP
 
             course1.StudentsInCourse(studentList);
 
+            var studentsInCourse = course1.ListOfStudents(studentList);
             
 
         }
